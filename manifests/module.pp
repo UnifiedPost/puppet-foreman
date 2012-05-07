@@ -5,7 +5,7 @@
 class foreman::module {
 
   $id = 'unifiedpost-puppet-foreman'
-  $version = '0.1dev'
+  $version = '0.1'
 
 }
 
